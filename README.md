@@ -1,8 +1,5 @@
-### 성장중 🌱
+### 성장중.. 🌱
 
-
-
-<br/>
 💪 Skills
 <p/>
 <p>
@@ -15,7 +12,7 @@
 </p>
 
 ![wooinwoo's github stats](https://github-readme-stats.vercel.app/api?username=wooinwoo&show_icons=true)
-[![wooinwoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wooinwooID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wooinwoo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooinwoo&layout=compact)](https://github.com/wooinwoo/github-readme-stats)
 
 <!--
 **wooinwoo/wooinwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
