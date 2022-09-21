@@ -13,10 +13,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooinwoo&layout=compact)](https://github.com/wooinwoo/github-readme-stats)
 
 
-<a href="https://bhk1324.tistory.com/">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
+<a href="https://bhk1324.tistory.com/">>
+  <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
 </a>
-<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
 <!--
 **wooinwoo/wooinwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
