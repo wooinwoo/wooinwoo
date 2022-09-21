@@ -1,6 +1,10 @@
 ### 성장중 🌱
 
+
+
 <br/>
+💪 Skills
+<p/>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scss-CC6699?style=flat&logo=Scss&logoColor=white"/>
@@ -9,6 +13,9 @@
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
 </p>
+
+![wooinwoo's github stats](https://github-readme-stats.vercel.app/api?username=wooinwoo&show_icons=true)
+[![wooinwoo's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wooinwooID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/wooinwoo)
 
 <!--
 **wooinwoo/wooinwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
