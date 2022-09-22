@@ -10,8 +10,8 @@
 </p>
 
 ### 🍊 ME 🍊
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wooinwoo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooinwoo&layout=compact&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wooinwoo&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooinwoo&layout=compact)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bhk1324)](https://solved.ac/bhk1324/)
 
 <a href="https://bhk1324.tistory.com/">
@@ -24,6 +24,8 @@
 <!--
 **wooinwoo/wooinwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wooinwoo&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooinwoo&layout=compact&theme=tokyonight)
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
