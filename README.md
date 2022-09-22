@@ -10,8 +10,9 @@
 </p>
 
 ### 🍊 ME 🍊
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooinwoo)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooinwoo&layout=compact)](https://github.com/wooinwoo)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wooinwoo&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooinwoo&layout=compact&theme=tokyonight)
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bhk1324)](https://solved.ac/bhk1324/)
 
 <a href="https://bhk1324.tistory.com/">
