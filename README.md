@@ -38,7 +38,7 @@
 </ul>
 
 ### 🍊 ME 🍊
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wooinwoo&show_icons=true)
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wooinwoo&show_icons=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooinwoo&layout=compact)
 
 <a href="https://bhk1324.tistory.com/">
