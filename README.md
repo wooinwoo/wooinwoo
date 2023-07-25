@@ -42,7 +42,7 @@
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wooinwoo&show_icons=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooinwoo&layout=compact)
 
-<a href="https://bhk1324.tistory.com/">
+<a href="https://bhk1324.tistory111.com/">
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
 </a>
 <a href="mailto:wooin1001@gmail.com" >
