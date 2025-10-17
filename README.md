@@ -1,68 +1,67 @@
-### 💪 Skills 💪
-<ul>
-  <li>
-    Frontend: 
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Scss-CC6699?style=flat&logo=Scss&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white"/>
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Recoil-512BD4?style=flat&logo=Recoil&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
-  </li>
-  <li>
-    Backend:
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/>
-  </li>
-  <li>
-    Deployment:
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=Netlify&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=Vercel&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
-  </li>
-  <li>
-    Version Control:
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
-  </li>
-  <li>
-    Communication:
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/>
-  </li>
-</ul>
+<div align="center">
 
-### 🍊 ME 🍊
-<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wooinwoo&show_icons=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooinwoo&layout=compact)
+# Hi, I'm Wooinwoo
 
-<!-- <a href="https:/####/">
-  <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
-</a> -->
-<a href="mailto:wooin1001@gmail.com" >
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Next.js+%7C+Vue.js;Building+Great+User+Experiences)](https://git.io/typing-svg)
 
-<!--
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bhk1324)](https://solved.ac/bhk1324/)
+</div>
 
-**wooinwoo/wooinwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wooinwoo&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooinwoo&layout=compact&theme=tokyonight)
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+```typescript
+const techStack = {
+  frontend: ['TypeScript', 'React', 'Next.js', 'Vue.js', 'jQuery'],
+  styling: ['Tailwind CSS', 'Sass', 'CSS Modules', 'Styled Components'],
+  state: ['Redux', 'Recoil', 'Zustand', 'React Query'],
+  backend: ['NestJS', 'Python', 'Supabase', 'PostgreSQL', 'Firebase'],
+  infra: ['AWS', 'Vercel', 'Netlify', 'Docker'],
+  tools: ['Figma', 'Git', 'Notion', 'Slack']
+}
+```
+
+<br />
+
+## GitHub Stats
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+![](https://github-readme-stats.vercel.app/api?username=wooinwoo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+
+</td>
+<td width="50%">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wooinwoo&theme=default&hide_border=true)](https://git.io/streak-stats)
+
+</td>
+</tr>
+</table>
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=wooinwoo&theme=github-compact&hide_border=true&custom_title=Contribution%20Graph)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=wooinwoo&theme=flat&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br />
+
+## Contact
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/wooin1001@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:wooin1001@gmail.com)
+
+![](https://komarev.com/ghpvc/?username=wooinwoo&style=flat-square&color=3178C6)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Built with passion for clean code and great UX</sub>
+</div>
