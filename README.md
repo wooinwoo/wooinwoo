@@ -15,7 +15,7 @@ const techStack = {
   frontend: ['TypeScript', 'React', 'Next.js', 'Vue.js', 'jQuery'],
   styling: ['Tailwind CSS', 'Sass', 'CSS Modules', 'Styled Components'],
   state: ['Redux', 'Recoil', 'Zustand', 'React Query'],
-  backend: ['NestJS', 'Python', 'Supabase', 'PostgreSQL', 'Firebase'],
+  backend: ['NestJS', 'Supabase', 'PostgreSQL', 'Firebase'],
   infra: ['AWS', 'Vercel', 'Netlify', 'Docker'],
   tools: ['Figma', 'Git', 'Notion', 'Slack']
 }
