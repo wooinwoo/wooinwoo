@@ -42,26 +42,22 @@ const techStack = {
 </tr>
 </table>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=wooinwoo&theme=github-compact&hide_border=true&custom_title=Contribution%20Graph)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=wooinwoo&theme=flat&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
 <br />
 
 ## Contact
-
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/wooin1001@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:wooin1001@gmail.com)
-
-![](https://komarev.com/ghpvc/?username=wooinwoo&style=flat-square&color=3178C6)
+<a href="mailto:wooin1001@gmail.com">
+  <img src="https://img.shields.io/badge/wooin1001@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=wooinwoo&style=flat-square&color=3178C6" alt="Profile Views"/>
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Built with passion for clean code and great UX</sub>
+<sub>Always learning, always building</sub>
 </div>
