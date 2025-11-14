@@ -3,6 +3,9 @@
 # Hi, I'm Wooinwoo
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Next.js+%7C+Vue.js;Building+Great+User+Experiences)](https://git.io/typing-svg)
+> 반복적인 작업을 자동화하고, 효율적인 시스템을 만드는 것을 좋아합니다.  
+> 제품 기획부터 개발, 인프라 구축까지 다양한 영역을 경험하며  
+> 더 나은 워크플로우를 만들어가고 있습니다.
 
 </div>
 
