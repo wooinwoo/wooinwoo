@@ -58,9 +58,3 @@ const techStack = {
 <img src="https://komarev.com/ghpvc/?username=wooinwoo&style=flat-square&color=3178C6" alt="Profile Views"/>
 
 </div>
-
----
-
-<div align="center">
-<sub>Always learning, always building</sub>
-</div>
