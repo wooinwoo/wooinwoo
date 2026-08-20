@@ -1,60 +1,41 @@
-<div align="center">
+<div align="left">
 
-# Hi, I'm Wooinwoo
+# Wooinwoo
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3178C6&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Next.js+%7C+Vue.js;Building+Great+User+Experiences)](https://git.io/typing-svg)
-> 반복적인 작업을 자동화하고, 효율적인 시스템을 만드는 것을 좋아합니다.  
-> 제품 기획부터 개발, 인프라 구축까지 다양한 영역을 경험하며  
-> 더 나은 워크플로우를 만들어가고 있습니다.
+### Product engineer who turns complex work into reliable systems.
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=500\&size=18\&duration=2600\&pause=900\&color=3178C6\&vCenter=true\&width=520\&height=36\&lines=Product+Engineering;Automation+Systems;Reliable+Delivery)](https://github.com/DenverCoder1/readme-typing-svg)
 
-<br />
-
-## Tech Stack
-
-```typescript
-const techStack = {
-  frontend: ['TypeScript', 'React', 'Next.js', 'Vue.js', 'jQuery'],
-  styling: ['Tailwind CSS', 'Sass', 'CSS Modules', 'Styled Components'],
-  state: ['Redux', 'Recoil', 'Zustand', 'React Query'],
-  backend: ['NestJS', 'Supabase', 'PostgreSQL', 'Firebase'],
-  infra: ['AWS', 'Vercel', 'Netlify', 'Docker'],
-  tools: ['Figma', 'Git', 'Notion', 'Slack']
-}
-```
-
-<br />
-
-## GitHub Stats
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-![](https://github-readme-stats.vercel.app/api?username=wooinwoo&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-
-</td>
-<td width="50%">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wooinwoo&theme=default&hide_border=true)](https://git.io/streak-stats)
-
-</td>
-</tr>
-</table>
+제품의 문제를 정의하고, 필요한 화면과 시스템을 직접 만듭니다.\
+기획부터 개발, 자동화, 인프라까지 연결하며 더 짧고 안정적인 워크플로우를 만듭니다.
 
 </div>
 
-<br />
+> Good software removes friction twice: once for the user, once for the team.
 
-## Contact
-<div align="center">
+## How I work
 
-<a href="mailto:wooin1001@gmail.com">
-  <img src="https://img.shields.io/badge/wooin1001@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
+* **Product thinking**: 사용자 문제와 비즈니스 목표를 실행 가능한 제품으로 구체화합니다.
+
+* **Practical automation**: 반복 작업을 찾아 작고 확실한 도구로 바꿉니다.
+
+* **End-to-end ownership**: 기획 의도를 코드와 운영 환경까지 끊김 없이 연결합니다.
+
+## Toolbox
+
+<a href="https://github.com/tandpfun/skill-icons">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,nestjs,postgres,prisma,supabase,aws,cloudflare,docker,tauri,githubactions,vitest&perline=10" alt="TypeScript, Node.js, React, Next.js, NestJS, PostgreSQL, Prisma, Supabase, AWS, Cloudflare, Docker, Tauri, GitHub Actions, and Vitest" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=wooinwoo&style=flat-square&color=3178C6" alt="Profile Views"/>
 
-</div>
+**Product Engineering**: TypeScript, Node.js, React, Next.js, NestJS\
+**AI and Agent Systems**: LangGraph, Claude Code, Codex, Gemini, Agent Orchestration\
+**Data and Realtime**: PostgreSQL, Prisma, Supabase, WebSocket, SSE\
+**Platform and Delivery**: AWS, Cloudflare, Docker, Tauri, GitHub Actions\
+**Quality Engineering**: Vitest, Playwright, Node.js Test Runner
+
+## Let's build something useful.
+
+제품, 자동화, 개발 환경에 관한 이야기를 좋아합니다.\
+[Email](mailto:wooin1001@gmail.com) · [GitHub](https://github.com/wooinwoo)
+
+<sub>If a workflow repeats, I want to make it disappear.</sub>
