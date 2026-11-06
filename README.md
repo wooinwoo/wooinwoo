@@ -4,7 +4,7 @@
 
 <br /><br />
 
-<img src="https://skillicons.dev/icons?i=ts,nodejs,react,nextjs,nestjs,postgres,mysql,prisma,supabase,aws,cloudflare,docker,tauri,githubactions,git,vitest&perline=8" alt="TypeScript, Node.js, React, Next.js, NestJS, PostgreSQL, MySQL, Prisma, Supabase, AWS, Cloudflare, Docker, Tauri, GitHub Actions, Git, and Vitest" />
+<img src="assets/stack.svg" alt="Stack: TypeScript, React, Next.js, Tailwind CSS, Node.js, NestJS, Python, Prisma, PostgreSQL, MySQL, AWS, Docker, Cloudflare, Vercel, GitHub Actions, Vitest, Playwright" width="100%" />
 
 <br /><br />
 
